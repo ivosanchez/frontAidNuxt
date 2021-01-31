@@ -4,17 +4,18 @@
     ".vscode": true,
     "README.md": true,
     "yarn.lock": true,
-    "jsconfig.json": true
-  },
-  "workbench.colorCustomizations": {
-    "tab.activeBorder": "#afefe1",
-    "titleBar.activeBackground": "#afefe1",
-    "titleBar.activeForeground": "#000000",
-    "activityBar.background": "#afefe1",
-    "activityBar.foreground": "#000000",
-    "statusBar.background": "#afefe1",
-    "statusBar.foreground": "#000000"
+    "jsconfig.json": true,
+    "node_modules": true,
+    "LICENSE": true
   },
   "workspace.isHidden": false,
-  "window.title": "~[vue]~${separator}${separator}${separator}${separator}${separator}${separator}${activeEditorShort}${separator}${rootName}"
+  "workbench.colorCustomizations": {
+    "tab.activeBorder": "#dbcf24",
+    "titleBar.activeBackground": "#dbcf24",
+    "titleBar.activeForeground": "#000000",
+    "activityBar.background": "#dbcf24",
+    "activityBar.foreground": "#000000",
+    "statusBar.background": "#dbcf24",
+    "statusBar.foreground": "#000000"
+  }
 }

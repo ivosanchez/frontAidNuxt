@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    ".nuxt": true,
+    ".vscode": true,
+    "README.md": true,
+    "yarn.lock": true,
+    "jsconfig.json": true
+  },
+  "workbench.colorCustomizations": {
+    "tab.activeBorder": "#afefe1",
+    "titleBar.activeBackground": "#afefe1",
+    "titleBar.activeForeground": "#000000",
+    "activityBar.background": "#afefe1",
+    "activityBar.foreground": "#000000",
+    "statusBar.background": "#afefe1",
+    "statusBar.foreground": "#000000"
+  },
+  "workspace.isHidden": false,
+  "window.title": "~[vue]~${separator}${separator}${separator}${separator}${separator}${separator}${activeEditorShort}${separator}${rootName}"
+}

@@ -1,5 +1,5 @@
 import  conf  from './conf'
-// .............
+// ........................
 export default {
   // ===========
   css: [
@@ -10,6 +10,17 @@ export default {
   components: true,
   // ......
   modules: ['@nuxt/content'],
+  content: {
+    nestedProperties: ['categories.slug'],
+    liveEdit: true,
+      markdown: {
+      // remarkPlugins: ['remark-emoji']
+        remarkExternalLinks: {
+        // target: '_self',
+        // rel: 'nofollow'
+      }
+    }
+  },
   router: {
     async extendRoutes(routes, resolve) {
       const { $content } = require('@nuxt/content');

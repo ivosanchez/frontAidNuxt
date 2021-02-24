@@ -38,5 +38,5 @@
     "statusBar.background": "#afefe1",
     "statusBar.foreground": "#000000"
   },
-  "window.title": "~[vue]~${separator}${activeEditorShort}${separator}${rootName}"
+  "window.title": "~[vue]~${separator}${separator}${activeEditorShort}${separator}${rootName}"
 }

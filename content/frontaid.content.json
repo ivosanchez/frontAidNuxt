@@ -2,7 +2,7 @@
   "title": "FrontAidNuxtOD",
   "index": {
     "title": "Index Page",
-    "content": "<p>Some <strong>index</strong> content...</p>"
+    "content": "<p>Some <strong>index</strong> content... is always good to have</p>"
   },
   "pages": [
     {

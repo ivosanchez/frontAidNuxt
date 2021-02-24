@@ -30,12 +30,13 @@
       "editor.selectionForeground": "#fff",
       "breadcrumb.foreground": "#fff"
     },
-    "tab.activeBorder": "#dbcf24",
-    "titleBar.activeBackground": "#dbcf24",
+    "tab.activeBorder": "#afefe1",
+    "titleBar.activeBackground": "#afefe1",
     "titleBar.activeForeground": "#000000",
-    "activityBar.background": "#dbcf24",
+    "activityBar.background": "#afefe1",
     "activityBar.foreground": "#000000",
-    "statusBar.background": "#dbcf24",
+    "statusBar.background": "#afefe1",
     "statusBar.foreground": "#000000"
-  }
+  },
+  "window.title": "~[vue]~${separator}${activeEditorShort}${separator}${rootName}"
 }

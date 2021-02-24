@@ -1,8 +1,8 @@
 {
-  "title": "FrontAidNuxtOD",
+  "title": "FrontAid CMS with Nuxt Content",
   "index": {
     "title": "Index Page",
-    "content": "<p>Some <strong>index</strong> content... is always good to have</p>"
+    "content": "<p>Some <strong>index</strong> content...</p>"
   },
   "pages": [
     {

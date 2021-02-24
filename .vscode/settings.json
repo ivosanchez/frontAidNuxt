@@ -6,7 +6,9 @@
     "yarn.lock": true,
     "jsconfig.json": true,
     "node_modules": true,
-    "LICENSE": true
+    "LICENSE": true,
+    ".gitattributes": true,
+    ".gitignore": true
   },
   "workspace.isHidden": false,
   "workbench.colorCustomizations": {
@@ -28,12 +30,12 @@
       "editor.selectionForeground": "#fff",
       "breadcrumb.foreground": "#fff"
     },
-    "tab.activeBorder": "#654321",
-    "titleBar.activeBackground": "#654321",
-    "titleBar.activeForeground": "#ffffff",
-    "activityBar.background": "#654321",
-    "activityBar.foreground": "#ffffff",
-    "statusBar.background": "#654321",
-    "statusBar.foreground": "#ffffff"
+    "tab.activeBorder": "#dbcf24",
+    "titleBar.activeBackground": "#dbcf24",
+    "titleBar.activeForeground": "#000000",
+    "activityBar.background": "#dbcf24",
+    "activityBar.foreground": "#000000",
+    "statusBar.background": "#dbcf24",
+    "statusBar.foreground": "#000000"
   }
 }

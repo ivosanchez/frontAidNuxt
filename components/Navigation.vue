@@ -18,14 +18,14 @@
 <script>
 import conf from '../conf';
 
-export default {
-  data() {
-    return {content: null};
-  },
-  async fetch() {
-    this.content = await this.$content(conf.CONTENT).fetch();
-  },
-};
+  export default {
+      data() {
+        return {content: null};
+      },
+      async fetch() {
+        this.content = await this.$content(conf.CONTENT).fetch();
+      },
+  };
 </script>
 
 <style scoped>

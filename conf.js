@@ -1,3 +1,3 @@
 export default {
-  CONTENT: 'frontaid.content'
+  CONTENT: 'frontaid.content',
 }

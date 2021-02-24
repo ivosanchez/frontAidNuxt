@@ -10,11 +10,6 @@ export default {
   components: true,
   // ......
   modules: ['@nuxt/content'],
-  content: {
-    dir: 'content',
-    liveEdit: true,
-  },
-  //,
   router: {
     async extendRoutes (routes, resolve) {
         const { $content } = require('@nuxt/content')

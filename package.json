@@ -2,7 +2,6 @@
   "name": "example-nested-components",
   "dependencies": {
     "@nuxt/content": "1.13.1",
-    "@nuxtjs/content": "^0.3.0",
     "nuxt": "2.15.2"
   },
   "scripts": {

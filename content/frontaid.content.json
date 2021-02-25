@@ -2,7 +2,7 @@
   "title": "FrontAid CMS with Nuxt Content",
   "index": {
     "title": "Index Page",
-    "content": "<p>Some <strong>index</strong> content...</p>"
+    "content": "<p>Some index content... is always good to have</p>"
   },
     "contacto": {
       "title": "contacto",
@@ -10,9 +10,9 @@
     },
   "pages": [
     {
-      "title": "Foo Page",
-      "path": "/foo",
-      "content": "<p>Foo content...</p><h2>Heading</h2><p>Some other content...</p>"
+      "title": "subpage1",
+      "path": "/s1",
+      "content": "<h6>Foo content...</h6><h2>Heading</h2><p>Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...</p>"
     },
     {
       "title": "Bar Page",

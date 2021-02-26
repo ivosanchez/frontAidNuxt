@@ -5,7 +5,7 @@
         <nuxt-link to="/">{{ content.index.title }}</nuxt-link>
       </li>
         <li>
-        <nuxt-link to="/contacto">contactos</nuxt-link>
+        <nuxt-link to="/contacto">contacto</nuxt-link>
       </li>
       <li>
         <nuxt-link to="/nested">nested</nuxt-link>

@@ -3,6 +3,11 @@
   "title": {
     ":type": "line"
   },
+  ":description": "description of the project",
+  ":locales": [
+    "es_ES",
+    "en_US"
+  ],
   "index": {
     "title": {
       ":type": "line"
@@ -10,28 +15,29 @@
     "content": {
       ":type": "text",
       ":richtext": false
+    }
+  },
+  "contacto": {
+    "title": {
+      ":type": "line"
     },
-    "contacto": {
+    "content": {
+      ":type": "text",
+      ":richtext": false
+    }
+  },
+  "pages": {
+    ":items": {
       "title": {
+        ":type": "line"
+      },
+      "path": {
         ":type": "line"
       },
       "content": {
         ":type": "text",
         ":richtext": false
       }
-    },
-    "pages": {
-      ":items": {
-        "title": {
-          ":type": "line"
-        },
-        "path": {
-          ":type": "line"
-        },
-        "content": {
-          ":type": "text",
-          ":richtext": false
-        }
-      }
     }
   }
+}

@@ -17,12 +17,12 @@
     {
       "title": "Bar Page",
       "path": "/bar",
-      "content": "<p><strong>Bar</strong> content...</p>"
+      "content": "<p><strong>Bar</strong> content...</p><h6>Foo content...</h6><h2>Heading</h2><p>Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content</p>"
     },
     {
       "title": "Baz Page",
       "path": "/baz",
-      "content": "<p><strong>Baz</strong> content...</p>"
+      "content": "<p>Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content</p>"
     }
   ]
 }

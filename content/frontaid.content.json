@@ -24,5 +24,19 @@
       "path": "/baz",
       "content": "<p>Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content...Some other content</p>"
     }
-  ]
+  ],
+  "es_ES": {
+    "pages": [
+      {
+        "title": "itemaddedatfe",
+        "path": "iaaf",
+        "content": "item added at fa adkfadf asdfadk"
+      }
+    ]
+  },
+  "en_US": {
+    "pages": [
+      {}
+    ]
+  }
 }

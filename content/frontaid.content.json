@@ -1,13 +1,13 @@
 {
   "title": "FrontAid CMS with Nuxt Content",
   "index": {
-    "title": "Index Page",
+    "title": "inicio",
     "content": "<p>Some index content... is always good to have</p>"
   },
-    "contacto": {
-      "title": "contacto",
-      "content": "<p>Some <strong>contacto info here</strong></p>"
-    },
+  "contacto": {
+    "title": "contacto",
+    "content": "<p>Some <strong>contacto info here</strong></p>"
+  },
   "pages": [
     {
       "title": "subpage1",
